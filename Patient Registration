@@ -3,3 +3,6 @@ read appoinment detailes
 set appointment
 track patient history
 creat bill
+read insurance type,
+read claim
+calculate the amunt
